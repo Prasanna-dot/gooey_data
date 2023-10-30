@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "firstTitle": "Classic",
+      "lastTitle": "fudgy dark chocolate",
+      "description": "Prepare to embark on a chocolate lover's journey with Gooey Classic Fudgy Dark Chocolate Gooey Brownies. Born from the passion for pure indulgence, these brownies are not just a dessert; they're a celebration of the finest ingredients and the art of baking. Imagine sinking your teeth into a rich, moist, and fudgy brownie that practically melts on your tongue, revealing layers of intense, dark chocolate flavor.",
+      "price": "220",
+      "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698572115/gooey/Browine_1-05_mmhrjn.png"
+    },
+    {
+      "firstTitle": "Day and night",
+      "lastTitle": "milk and white chocolate",
+      "description": "Prepare to embark on a chocolate lover's journey with Gooey Classic Fudgy Dark Chocolate Gooey Brownies. Born from the passion for pure indulgence, these brownies are not just a dessert; they're a celebration of the finest ingredients and the art of baking. Imagine sinking your teeth into a rich, moist, and fudgy brownie that practically melts on your tongue, revealing layers of intense, dark chocolate flavor.",
+      "price": "230",
+      "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698572116/gooey/Brownie_2-05_smy7xb.png"
+    },
+    {
+      "firstTitle": "Squirrel Nut",
+      "lastTitle": "walnut",
+      "description": "Prepare to embark on a chocolate lover's journey with Gooey Classic Fudgy Dark Chocolate Gooey Brownies. Born from the passion for pure indulgence, these brownies are not just a dessert; they're a celebration of the finest ingredients and the art of baking. Imagine sinking your teeth into a rich, moist, and fudgy brownie that practically melts on your tongue, revealing layers of intense, dark chocolate flavor.",
+      "price": "250",
+      "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698572114/gooey/Brownie_3-05_fnhj2w.png"
+    },
+    {
+      "firstTitle": "Nutty brownie",
+      "lastTitle": "mixed nuts",
+      "description": "Prepare to embark on a chocolate lover's journey with Gooey Classic Fudgy Dark Chocolate Gooey Brownies. Born from the passion for pure indulgence, these brownies are not just a dessert; they're a celebration of the finest ingredients and the art of baking. Imagine sinking your teeth into a rich, moist, and fudgy brownie that practically melts on your tongue, revealing layers of intense, dark chocolate flavor.",
+      "price": "250",
+      "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698572118/gooey/Brownie_4-05_cjtxpo.png"
+    },
+    {
+      "firstTitle": "Monkeypot",
+      "lastTitle": "dark chocolate",
+      "description": "Prepare to embark on a chocolate lover's journey with Gooey Classic Fudgy Dark Chocolate Gooey Brownies. Born from the passion for pure indulgence, these brownies are not just a dessert; they're a celebration of the finest ingredients and the art of baking. Imagine sinking your teeth into a rich, moist, and fudgy brownie that practically melts on your tongue, revealing layers of intense, dark chocolate flavor.",
+      "price": "240",
+      "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698572117/gooey/Brownie_5-05_xsedhz.png"
+    },
+    {
+      "firstTitle": "Nobly Novella",
+      "lastTitle": "",
+      "description": "Prepare to embark on a chocolate lover's journey with Gooey Classic Fudgy Dark Chocolate Gooey Brownies. Born from the passion for pure indulgence, these brownies are not just a dessert; they're a celebration of the finest ingredients and the art of baking. Imagine sinking your teeth into a rich, moist, and fudgy brownie that practically melts on your tongue, revealing layers of intense, dark chocolate flavor.",
+      "price": "250",
+      "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698572117/gooey/Brownie_6-05_edrx9k.png"
+    },
+    {
+      "firstTitle": "Blondie bites",
+      "lastTitle": "",
+      "description": "Prepare to embark on a chocolate lover's journey with Gooey Classic Fudgy Dark Chocolate Gooey Brownies. Born from the passion for pure indulgence, these brownies are not just a dessert; they're a celebration of the finest ingredients and the art of baking. Imagine sinking your teeth into a rich, moist, and fudgy brownie that practically melts on your tongue, revealing layers of intense, dark chocolate flavor.",
+      "price": "240",
+      "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698558743/brownie1-01_maanoh.png"
+    }
+  ]
+}
