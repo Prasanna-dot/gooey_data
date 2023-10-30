@@ -1,0 +1,17 @@
+{
+    "items": [
+        {
+            "image":
+              "https://res.cloudinary.com/dfj2hjdss/image/upload/v1692515068/New_Project_3_i32lbn.png",
+            "name": "Prasanna",
+            "review":
+              "The red-tailed squirrel (Sciurus granatensis) is a species of tree squirrel"
+          },
+          {
+            "image": "",
+            "name": "Kishore",
+            "review":
+              "The red-tailed squirrel (Sciurus granatensis) is a species of tree squirrel"
+          }
+    ]
+}
