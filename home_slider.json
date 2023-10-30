@@ -1,10 +1,10 @@
 {
   "items": [
-  {
-    "title": "Prasanna",
-    "secTitle": "Venkatesh",
-    "image":
-      "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698675898/gooey/Brownie2-01_pbgziz.png",
-    "description": "Prepare to embark on a chocolate lover's journey with Gooey Classic Fudgy Dark Chocolate Gooey Brownies. Born from the passion for pure indulgence, these brownies are not just a dessert; they're a celebration of the finest ingredients and the art of baking. Imagine sinking your teeth into a rich, moist, and fudgy brownie that practically melts on your tongue, revealing layers of intense, dark chocolate flavor."
-  },
-]}
+    {
+      "title": "Prasanna",
+      "secTitle": "Venkatesh",
+      "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698675898/gooey/Brownie2-01_pbgziz.png",
+      "description": "Prepare to embark on a chocolate lover's journey with Gooey Classic Fudgy Dark Chocolate Gooey Brownies. Born from the passion for pure indulgence, these brownies are not just a dessert; they're a celebration of the finest ingredients and the art of baking. Imagine sinking your teeth into a rich, moist, and fudgy brownie that practically melts on your tongue, revealing layers of intense, dark chocolate flavor."
+    }
+  ]
+}
