@@ -1,25 +1,25 @@
 {
   "items": [
     {
-      "firstTitle": "Apple (200g)",
+      "firstTitle": "Apple(200g)",
       "description": "Indulge in the pure essence of crisp, sweet apples captured in every jar of our Apple Jam. Perfectly balanced sweetness and a hint of tartness make this jam a delightful spread for your morning toast or pastry.",
       "price": "300",
       "image":
-        "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698558743/brownie1-01_maanoh.png"
+        "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698686499/gooey/pngegg_pmxdju.png"
     },
     {
-      "firstTitle": "Pineapple (200g)",
+      "firstTitle": "Pineapple(200g)",
       "description": "Transport your taste buds to the tropics with our Pineapple Jam, bursting with the sunny flavors of ripe pineapples. Enjoy the tropical sweetness and refreshing tang, adding a tropical twist to your breakfast or desserts.",
       "price": "260",
       "image":
-        "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698558743/brownie1-01_maanoh.png"
+        "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698686865/gooey/pineapple-flavoured-jam-4kg-tub_jyntpu.png"
     },
     {
-      "firstTitle": "Strawberry (200g)",
+      "firstTitle": "Strawberry(200g)",
       "description": "Experience the classic goodness of sun-ripened strawberries in our Strawberry Jam. Packed with the natural sweetness of strawberries, this jam is a timeless favorite. Spread it on your favorite bread or use it as a filling for pastries, and savor the taste of summer all year round.",
       "price": "350",
       "image":
-        "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698558743/brownie1-01_maanoh.png"
+        "https://res.cloudinary.com/dfj2hjdss/image/upload/v1698678003/gooey/pngimg.com_-_jam_PNG133_1_xjwhbg.png"
     }
   ]
 }
