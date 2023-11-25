@@ -12,7 +12,7 @@
       "lastTitle": "milk and white chocolate",
       "description": "Experience the perfect harmony of indulgence with our Day and Night Brownies, marrying creamy milk chocolate's sweetness with the elegance of white chocolate. A delightful duo that brings the best of both worlds to your taste buds, day or night.",
       "price": "",
-      "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1699367591/gooey/day_and_night_hgnblt.png"
+      "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1700893185/gooey/Browine_1-05_1_3_aoawhm.png"
     },
     {
       "firstTitle": "Squirrel Nut",
@@ -48,6 +48,13 @@
       "description": "A divine blend of rich, buttery sweetness and soft, chewy perfection. These delectable bite-sized treats redefine gourmet snacking, combining the allure of classic blonde brownies with the convenience of on-the-go enjoyment. Each bite unveils a symphony of flavors, from the caramelized notes of brown sugar to the subtle hints of pure vanilla, creating a taste sensation that lingers long after the first bite.",
       "price": "",
       "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1699367591/gooey/blondie_bites_mece0j.png"
+    },
+    {
+      "firstTitle": "Overloaded Brownies",
+      "lastTitle": "",
+      "description": "A divine blend of rich, buttery sweetness and soft, chewy perfection. These delectable bite-sized treats redefine gourmet snacking, combining the allure of classic blonde brownies with the convenience of on-the-go enjoyment. Each bite unveils a symphony of flavors, from the caramelized notes of brown sugar to the subtle hints of pure vanilla, creating a taste sensation that lingers long after the first bite.",
+      "price": "",
+      "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1700892953/gooey/Browine_1-05_1_2_ndnwr6.png"
     }
   ]
 }
