@@ -8,6 +8,13 @@
       "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1699367861/gooey/squirrel_nut_wzdcbx.png"
     },
     {
+      "firstTitle": "Overloaded Brownies",
+      "lastTitle": "",
+      "description": "Decadent and rich, overloaded brownies are a sinfully indulgent treat packed with layers of chocolates, nuts, and other delightful toppings, offering a blissful explosion of flavors in every bite.",
+      "price": "",
+      "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1700892953/gooey/Browine_1-05_1_2_ndnwr6.png"
+    },
+    {
       "firstTitle": "Day and Night",
       "lastTitle": "milk and white chocolate",
       "description": "Experience the perfect harmony of indulgence with our Day and Night Brownies, marrying creamy milk chocolate's sweetness with the elegance of white chocolate. A delightful duo that brings the best of both worlds to your taste buds, day or night.",
@@ -29,13 +36,6 @@
       "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1699367591/gooey/nutty_brownie_aiipww.png"
     },
     {
-      "firstTitle": "Mokey Nut",
-      "lastTitle": "dark chocolate",
-      "description": "Meet our Monkey Nut Brownies, a delightful fusion of rich chocolate and velvety peanut butter. Experience the playful dance of flavors in every bite, creating a heavenly indulgence that's nutty, creamy, and utterly irresistible.",
-      "price": "",
-      "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1700892803/gooey/Browine_1-05_1_1_bxmgu2.png"
-    },
-    {
       "firstTitle": "Nobly Nutrella",
       "lastTitle": "",
       "description": "Dive into a world of exquisite flavors, crafted to perfection for an indulgence that's both luxurious and unforgettable.",
@@ -48,13 +48,6 @@
       "description": "A divine blend of rich, buttery sweetness and soft, chewy perfection. These delectable bite-sized treats redefine gourmet snacking, combining the allure of classic blonde brownies with the convenience of on-the-go enjoyment. Each bite unveils a symphony of flavors, from the caramelized notes of brown sugar to the subtle hints of pure vanilla, creating a taste sensation that lingers long after the first bite.",
       "price": "",
       "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1699367591/gooey/blondie_bites_mece0j.png"
-    },
-    {
-      "firstTitle": "Overloaded Brownies",
-      "lastTitle": "",
-      "description": "Decadent and rich, overloaded brownies are a sinfully indulgent treat packed with layers of chocolates, nuts, and other delightful toppings, offering a blissful explosion of flavors in every bite.",
-      "price": "",
-      "image": "https://res.cloudinary.com/dfj2hjdss/image/upload/v1700892953/gooey/Browine_1-05_1_2_ndnwr6.png"
     }
   ]
 }
